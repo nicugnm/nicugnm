@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with Java with Spring, Spring Boot, Docker, Kubernetes, C/C++, Python, PHP a little.
 - 🌱 I’m currently learning Typescript, Angular.
 - 💬 Ask me about Programming and Math.
-- 📫 How to reach me: nghergu17@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/nicugnm/
 - 😄 Pronouns: Nicu.
 - ⚡ Fun fact: I love to code and find new things.
 
