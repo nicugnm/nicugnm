@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Java with Spring, Spring Boot, Docker, Kubernetes, C/C++, Python a little.
-- 🌱 I’m currently learning HTML & CSS, Javascript, Typescript, Angular, Kotlin & Golang.
+- 🌱 I’m currently learning HTML & CSS, Javascript, Typescript, Kotlin & Golang.
 - 💬 Ask me about Programming and Math.
 - 📫 How to reach me: https://www.linkedin.com/in/nicugnm/
 - 😄 Pronouns: Nicu.
