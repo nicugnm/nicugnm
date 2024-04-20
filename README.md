@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with Java/Kotlin with Spring, Spring Boot, Docker, Kubernetes, C/C++, Golang and Python on Backend, HTML & CSS, Javascript, Typescript on Frontend.
 - 🌱 I’m currently learning Machine Learning.
 - 💬 Ask me about Programming and Math.
-- 📫 How to reach me: https://www.linkedin.com/in/nicugnm/
+- 📫 How to reach me: https://www.linkedin.com/in/sticknycu/
 - 😄 Pronouns: Nicu.
 - ⚡ Fun fact: I love to code and find new things.
 
