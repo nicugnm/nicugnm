@@ -7,5 +7,5 @@
 - 😄 Pronouns: Nicu.
 - ⚡ Fun fact: I love to code and find new things.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sticknycu&count_private=true&show_icons=true&theme=vue" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedo0627&layout=compact&theme=vue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nicugnm&count_private=true&show_icons=true&theme=vue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicugnm&layout=compact&theme=vue" />
